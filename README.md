@@ -15,4 +15,14 @@ taulukon se järjestetyn uuden taulukon.
 Koodissa on myös optimoitu toinen versio: se käyttää "insertion sort" -lajittelualgoritmia pienille taulukoille, 
 mikä voi olla nopeampaa kuin Quicksort tietyissä tilanteissa.
 
-Tämän lisäksi ohjelma sisältää kommentteja selventämään koodia ja parantamaan sen ymmärrettävyyttä. 14.09.23*/
+Tämän lisäksi ohjelma sisältää kommentteja selventämään koodia ja parantamaan sen ymmärrettävyyttä. 14.09.23
+
+blackjack.cpp
+Tämä koodi sisältää tekstipohjaisen Blackjack-pelin, ohjelma tekee korttipakan ja pelaaja pelaa ensin. Tietokone toisena.
+ohjelma sisältää ääkkösiä joten tulostus on vielä vähän keskeneräinen. Mutta ohjema toimii muuten.  Ohjelman on 
+projektityö mikä valmistui 2000-luvun alussa Turun yliopiston Tietojenkäsittelytieteen laitoksella. 
+Minä tein funktiot korttipakan luomiseksi (void LuoKorttipakka),funktion korttipakan sekoittamiseksi (void SekoitaKorttipakka)
+ja funktion kortin nostamiseksi. 
+Muut osat teimme yhdessä ryhmän kanssa. Koodi siistitty ja testattu 140923 ST.
+
+
