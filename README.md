@@ -1,5 +1,5 @@
 # showcaseST
-Esimerkkiohjelmia nähtäväksi
+Esimerkkiohjelmia 
 
 todolist.c 
 Ohjelma on yksinkertainen c-kielellä tehty ohjeman johon voi lisätä hoidettavia tehtäviä ja helposti nähdä mitä tehtäviä on vielä tehtävänä. Ohjelmassa voi merkitä tehtävät tehtdyiksi. 
