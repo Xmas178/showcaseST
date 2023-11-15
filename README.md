@@ -15,6 +15,10 @@ blackjack.cpp
 
 Tämä koodi sisältää tekstipohjaisen Blackjack-pelin. Ohjelma luo korttipakan, ja pelaaja aloittaa pelin. Tietokone toimii toisena pelaajana. Ohjelma sisältää ääkkösiä, joten tulostus voi olla vielä hieman keskeneräinen. Muuten ohjelma toimii normaalisti. Tämä ohjelma oli projektityö, joka valmistui 2000-luvun alussa Turun yliopiston Tietojenkäsittelytieteen laitoksella. Olin vastuussa funktioista korttipakan luomiseksi (void LuoKorttipakka), korttipakan sekoittamiseksi (void SekoitaKorttipakka) ja kortin nostamiseksi. Muut osat tehtiin yhdessä ryhmän kanssa. Koodi on siistitty ja testattu 09.23.
 
+tekstikuvasta.py
+
+Tämä funkio on osa isompaa projektityötä. Ohjelma ottaa kuvasta (jpg/png) loppusumman ja sen arvon ja tallentaa sen txt-tiedostoon. Tarkoitus lisätä ohjelmaan vielä ainakin tietokantaan tallentaminen, 
+sekä päivämäärän ja alv tietojen hakemisen. 11/23
 
 IN ENGLISH
 
@@ -33,4 +37,8 @@ The program also contains comments to clarify the code and improve its comprehen
 blackjack.cpp
 
 This code contains a text-based Blackjack game. The program creates a deck of cards, and the player plays first, followed by the computer. The program includes special characters (ä,ö), so the output may be somewhat incomplete in terms of formatting. However, the program functions otherwise. This program was a project completed in the early 2000s at the Department of Computer Science at the University of Turku. The functions for creating a card deck (void CreateCardDeck), shuffling the card deck (void ShuffleCardDeck), and drawing a card were implemented by me, while other parts were done collaboratively with the group. The code has been cleaned up and tested as of September 2023.
+
+tekstikuvasta.py
+
+This function is part of a larger project. The program takes the total and its value from an image (jpg/png) and saves it to a txt file. The intention is to further add functionality to the program, including saving to a database and retrieving date and VAT information. 11/23.
 
